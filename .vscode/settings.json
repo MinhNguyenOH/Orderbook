@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "__config": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "vector": "cpp",
+        "sstream": "cpp",
+        "mutex": "cpp",
+        "iostream": "cpp"
+    }
+}
